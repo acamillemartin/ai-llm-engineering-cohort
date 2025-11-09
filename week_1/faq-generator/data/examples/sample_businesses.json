@@ -1,0 +1,113 @@
+{
+  "businesses": [
+    {
+      "name": "Smile Bright Dental",
+      "type": "dental",
+      "description": "We are a family dental practice specializing in cosmetic dentistry, orthodontics, and general dental care. Our experienced team provides comprehensive oral health services including cleanings, fillings, crowns, implants, and teeth whitening. We use the latest technology and techniques to ensure comfortable, effective treatment for patients of all ages.",
+      "location": "Downtown Medical District",
+      "services": ["General Dentistry", "Cosmetic Dentistry", "Orthodontics", "Teeth Whitening", "Dental Implants"],
+      "hours": "Monday-Friday: 8AM-6PM, Saturday: 9AM-2PM",
+      "phone": "(555) 123-4567",
+      "website": "https://smilebrightdental.com"
+    },
+    {
+      "name": "TechFix Solutions",
+      "type": "technology",
+      "description": "We provide comprehensive IT support and technology consulting services for small and medium businesses. Our services include network setup, cybersecurity, cloud migration, software installation, hardware repair, and ongoing technical support. We help businesses optimize their technology infrastructure for maximum efficiency and security.",
+      "location": "Business Technology Center",
+      "services": ["IT Support", "Network Setup", "Cybersecurity", "Cloud Migration", "Hardware Repair"],
+      "hours": "Monday-Friday: 9AM-5PM, Emergency support available",
+      "phone": "(555) 987-6543",
+      "website": "https://techfixsolutions.com"
+    },
+    {
+      "name": "FitLife Personal Training",
+      "type": "fitness",
+      "description": "We offer personalized fitness training and wellness coaching to help clients achieve their health and fitness goals. Our certified trainers provide one-on-one sessions, group classes, nutrition counseling, and customized workout plans. We specialize in weight loss, muscle building, athletic performance, and injury rehabilitation.",
+      "location": "Downtown Fitness Center",
+      "services": ["Personal Training", "Group Classes", "Nutrition Counseling", "Weight Loss Programs", "Athletic Training"],
+      "hours": "Monday-Friday: 6AM-8PM, Saturday-Sunday: 8AM-4PM",
+      "phone": "(555) 456-7890",
+      "website": "https://fitlifetraining.com"
+    },
+    {
+      "name": "Legal Eagles Law Firm",
+      "type": "legal",
+      "description": "We are a full-service law firm specializing in personal injury, family law, estate planning, and business law. Our experienced attorneys provide compassionate, professional legal representation with a focus on achieving the best possible outcomes for our clients. We offer free consultations and work on a contingency basis for personal injury cases.",
+      "location": "Legal District",
+      "services": ["Personal Injury", "Family Law", "Estate Planning", "Business Law", "Criminal Defense"],
+      "hours": "Monday-Friday: 8AM-6PM, Emergency consultations available",
+      "phone": "(555) 321-0987",
+      "website": "https://legaleagleslaw.com"
+    },
+    {
+      "name": "Green Thumb Landscaping",
+      "type": "landscaping",
+      "description": "We provide professional landscaping and lawn care services for residential and commercial properties. Our services include landscape design, installation, maintenance, tree care, irrigation systems, and seasonal cleanup. We use eco-friendly practices and sustainable materials to create beautiful, low-maintenance outdoor spaces.",
+      "location": "Garden District",
+      "services": ["Landscape Design", "Lawn Maintenance", "Tree Care", "Irrigation Systems", "Seasonal Cleanup"],
+      "hours": "Monday-Friday: 7AM-5PM, Saturday: 8AM-2PM",
+      "phone": "(555) 654-3210",
+      "website": "https://greenthumblanscaping.com"
+    },
+    {
+      "name": "Bella Vista Salon & Spa",
+      "type": "beauty",
+      "description": "We are a full-service salon and spa offering hair styling, coloring, cuts, manicures, pedicures, facials, massages, and wellness treatments. Our experienced stylists and therapists use premium products and the latest techniques to help clients look and feel their best. We provide a relaxing, luxurious environment for all beauty and wellness needs.",
+      "location": "Beauty Plaza",
+      "services": ["Hair Styling", "Hair Coloring", "Manicures", "Pedicures", "Facials", "Massages", "Wellness Treatments"],
+      "hours": "Tuesday-Saturday: 9AM-7PM, Sunday: 10AM-4PM",
+      "phone": "(555) 789-0123",
+      "website": "https://bellavistasalon.com"
+    },
+    {
+      "name": "AutoCare Plus",
+      "type": "automotive",
+      "description": "We are a full-service automotive repair shop specializing in maintenance, diagnostics, and repairs for all makes and models. Our certified technicians provide oil changes, brake service, engine repair, transmission work, and preventive maintenance. We use quality parts and offer warranties on all work performed.",
+      "location": "Auto Service District",
+      "services": ["Oil Changes", "Brake Service", "Engine Repair", "Transmission Work", "Preventive Maintenance"],
+      "hours": "Monday-Friday: 7AM-6PM, Saturday: 8AM-4PM",
+      "phone": "(555) 147-2580",
+      "website": "https://autocareplus.com"
+    },
+    {
+      "name": "EduTech Learning Center",
+      "type": "education",
+      "description": "We provide comprehensive educational services including tutoring, test preparation, academic coaching, and skill development programs. Our experienced instructors work with students of all ages and levels to improve academic performance and build confidence. We offer both in-person and online learning options.",
+      "location": "Education Campus",
+      "services": ["Tutoring", "Test Preparation", "Academic Coaching", "Skill Development", "Online Learning"],
+      "hours": "Monday-Friday: 3PM-8PM, Saturday: 9AM-3PM",
+      "phone": "(555) 369-2580",
+      "website": "https://edutechlearning.com"
+    },
+    {
+      "name": "SecureHome Locksmith",
+      "type": "locksmith",
+      "description": "We provide emergency locksmith services including lock installation, repair, and replacement for residential and commercial properties. Our licensed locksmiths offer 24/7 emergency service, key cutting, lock rekeying, and security system installation. We work with all types of locks and security systems.",
+      "location": "Security Services District",
+      "services": ["Emergency Locksmith", "Lock Installation", "Key Cutting", "Lock Rekeying", "Security Systems"],
+      "hours": "24/7 Emergency Service",
+      "phone": "(555) 258-0369",
+      "website": "https://securehomelocksmith.com"
+    },
+    {
+      "name": "FreshStart Cleaning Services",
+      "type": "cleaning",
+      "description": "We provide professional residential and commercial cleaning services including regular maintenance, deep cleaning, move-in/move-out cleaning, and post-construction cleanup. Our trained staff uses eco-friendly products and equipment to deliver spotless results. We offer flexible scheduling and customizable service packages.",
+      "location": "Service District",
+      "services": ["Residential Cleaning", "Commercial Cleaning", "Deep Cleaning", "Move-in/Move-out", "Post-Construction Cleanup"],
+      "hours": "Monday-Friday: 8AM-6PM, Saturday: 9AM-3PM",
+      "phone": "(555) 741-8520",
+      "website": "https://freshstartcleaning.com"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
